@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 oajflkasflamsfmewklfklsmc alsfmlöqefslcma.f,cma.sfmcasmc. This part is added in github.
+=======
+this is added locallyoajflkasflamsfmewklfklsmc alsfmlöqefslcma.f,cma.sfmcasmc
+>>>>>>> Stashed changes

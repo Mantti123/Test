@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 -ice cream (skimmed)
+=======
+-soda (skimmed)
+>>>>>>> 68862d396693333a861d2dfed1b237e5d3ce4dcf
 -ice cream
 -beer
 -juice

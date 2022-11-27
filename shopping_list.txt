@@ -5,3 +5,4 @@
 -choklad
 -new item
 -new item
+-Added through local terminal
